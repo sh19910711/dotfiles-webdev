@@ -1,0 +1,1 @@
+NeoBundle 'hybrid.vim'

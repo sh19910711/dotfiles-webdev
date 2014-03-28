@@ -19,9 +19,12 @@ set autoindent
 set smartindent
 
 set mouse=a
+set ttymouse=sgr
 set clipboard=unnamed,unnamedplus,autoselect
 set backspace=indent,eol,start
 
 set incsearch
 set hlsearch
+
+colorscheme hybrid
 
