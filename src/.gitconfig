@@ -1,0 +1,11 @@
+[user]
+  email = sh19910711@gmail.com
+  name = Hiroyuki Sano
+[core]
+  excludesfile = ~/.gitignore
+  editor = vim -c \"set fenc=utf-8\"
+[sendemail]
+  smtpserver = /usr/bin/msmtp
+[push]
+#  default = simple
+
