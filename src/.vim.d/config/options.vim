@@ -27,4 +27,5 @@ set incsearch
 set hlsearch
 
 colorscheme hybrid
-
+set background=dark
+set term=screen-256color
