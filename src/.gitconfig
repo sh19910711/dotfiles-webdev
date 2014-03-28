@@ -1,6 +1,8 @@
 [user]
   email = sh19910711@gmail.com
   name = Hiroyuki Sano
+[color]
+  ui = true
 [core]
   excludesfile = ~/.gitignore
   editor = vim -c \"set fenc=utf-8\"
